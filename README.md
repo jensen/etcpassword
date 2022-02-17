@@ -4,6 +4,8 @@ This project was completed as part of a group learning exercise.
 
 ## Demo
 
+![Demo Image](https://user-images.githubusercontent.com/14803/154541445-2432d41e-a067-4660-94eb-8ce1702836a5.png)
+
 [https://etcpassword.netlify.app/](https://etcpassword.netlify.app/)
 
 ## Project Features
